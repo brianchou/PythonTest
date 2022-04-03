@@ -1,4 +1,4 @@
-from PythonTestQuestions import listReverse
+from PythonTestQuestions import buyFruits
 
-listReverse
+buyFruits
     
